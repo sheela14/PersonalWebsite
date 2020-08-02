@@ -1,2 +1,2 @@
 
-consol.log('hello');
+console.log('hello');
